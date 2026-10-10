@@ -1,1 +1,0 @@
-{"name": "لدن بيكري", "short_name": "لدن", "start_url": "./", "display": "standalone", "dir": "rtl", "lang": "ar", "background_color": "#fbefe6", "theme_color": "#5e1a2c", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
